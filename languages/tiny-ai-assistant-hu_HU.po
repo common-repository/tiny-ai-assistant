@@ -1,0 +1,194 @@
+# Copyright (C) 2023 aichatbot.hu
+# This file is distributed under the same license as the Tiny AI Assistant plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiny AI Assistant 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tiny-ai-"
+"assistant\n"
+"Last-Translator: \n"
+"Language-Team: Magyar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-11T13:31:30+00:00\n"
+"PO-Revision-Date: 2023-11-27 11:30+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: tiny-ai-assistant\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.4; wp-6.2"
+
+#. Description of the plugin
+msgid "A plugin that integrate AI services into TinyMCE Editor"
+msgstr "Egy plugin, amely MI szolgáltatásokat ad a TinyMCE szerkesztőhöz"
+
+#: tinyAIEX.php:335
+msgid "Active commands"
+msgstr "Aktív parancsok"
+
+#: tinyAIEX.php:336
+msgid "Add new command"
+msgstr "Új parancs hozzáadása"
+
+#: tinyAIEX.php:137
+msgid "AI Tools"
+msgstr "MI Eszközök"
+
+#: tinyAIEX.php:340
+msgid "Answer creativity"
+msgstr "Válasz kreativitás"
+
+#: tinyAIEX.php:137
+msgid "Available AI tools - you can set these on settings page"
+msgstr "Használható MI eszközök - A plugin beállításoknál módosítható"
+
+#: tinyAIEX.php:488 tinyAIEX.php:512
+msgid "Available only for premium users."
+msgstr "Csak prémium felhasználóknak elérhető."
+
+#: tinyAIEX.php:298
+msgid "Click here and choose from options what do you like to remove..."
+msgstr "Kattints ide és válaszd ki, mely opciókat szeretnéd eltávolítani..."
+
+#: tinyAIEX.php:298
+msgid "Click here and choose from options..."
+msgstr "Kattints ide és válassz az opciókból..."
+
+#: tinyAIEX.php:432
+msgid "Command"
+msgstr "Parancs"
+
+#: tinyAIEX.php:601
+msgid "Command added"
+msgstr "Parancs hozzáadva"
+
+#: tinyAIEX.php:431
+msgid "Command title"
+msgstr "Parancs név"
+
+#: tinyAIEX.php:433
+msgid ""
+"Command title: Any title, what do you like, Command example: \"Translate "
+"this text to hungarian: \""
+msgstr ""
+"Parancs név: Amit csak akarsz, Parancs példa: \"Fordítsd ezt a szöveget "
+"németre:\""
+
+#: tinyAIEX.php:638
+msgid "Commands removed"
+msgstr "Parancsok eltávolítva"
+
+#: tinyAIEX.php:359
+msgid "Current subscription"
+msgstr "Jelenlegi előfizetés"
+
+#: tinyAIEX.php:570 tinyAIEX.php:606 tinyAIEX.php:643
+msgid "Error happened."
+msgstr "Hiba történt."
+
+#: tinyAIEX.php:202
+msgid "Execute custom prompt"
+msgstr "Egyedi parancs futtatása"
+
+#: tinyAIEX.php:353
+msgid "Free"
+msgstr "Ingyenes"
+
+#. Plugin URI of the plugin
+#| msgid "https://tinyaiassistant.aichatbot.hu"
+msgid "https://tiny-ai-assistant.aichatbot.hu"
+msgstr "https://tiny-ai-assistant-hu.aichatbot.hu"
+
+#. Author URI of the plugin
+msgid "https://webdesign-honlapkeszites.hu"
+msgstr ""
+
+#: tinyAIEX.php:426
+msgid ""
+"In the free version of this plugin you can only set 3 active commands "
+"maximum."
+msgstr ""
+"A plugin ingyenes verziójával maximum 3 aktív parancsot tudsz beállítani."
+
+#: tinyAIEX.php:339
+msgid "Licence key (for premium subscriptions)"
+msgstr "Licensz kulcs (prémium előfizetésekhez)"
+
+#: tinyAIEX.php:204
+msgid "Make summary"
+msgstr "Kivonat készítés"
+
+#: tinyAIEX.php:204
+msgid "Make summary: "
+msgstr "Készíts kivonatot: "
+
+#: tinyAIEX.php:341
+msgid "Model"
+msgstr "Modell"
+
+#: tinyAIEX.php:361
+msgid "More information:"
+msgstr "További információ:"
+
+#: tinyAIEX.php:338
+msgid "OpenAI API key"
+msgstr "OpenAI API kulcs"
+
+#. Author of the plugin
+msgid "PDK Ltd."
+msgstr "PDK Kft."
+
+#: tinyAIEX.php:327
+msgid "Plugin settings"
+msgstr "Plugin beállítások"
+
+#: tinyAIEX.php:355
+msgid "Premium"
+msgstr "Prémium"
+
+#: tinyAIEX.php:337
+msgid "Remove commands"
+msgstr "Parancsok eltávolítása"
+
+#: tinyAIEX.php:445
+msgid "Remove selected commands"
+msgstr "Kiválasztott parancsok eltávolítása"
+
+#: tinyAIEX.php:203
+msgid "Rephrase content"
+msgstr "Tartalom újrafogalmazása"
+
+#: tinyAIEX.php:203
+msgid "Rephrase this text: "
+msgstr "Fogalmazd újra szebben: "
+
+#: tinyAIEX.php:240
+msgid "Settings"
+msgstr "Beállítások"
+
+#. Plugin Name of the plugin
+msgid "Tiny AI Assistant"
+msgstr "Tiny AI Assistant"
+
+#: tinyAIEX.php:304 tinyAIEX.php:309
+msgid "Tiny AI Assistant settings"
+msgstr "Tiny AI Assistant beállítások"
+
+#: tinyAIEX.php:304
+msgid "Tiny AI Assistant settings page"
+msgstr "Tiny AI Assistant beállítások oldal"
+
+#: tinyAIEX.php:137
+msgid "Undo last AI text modification"
+msgstr "MI szövegmódosítás visszavonása"
+
+#: tinyAIEX.php:397
+msgid "You can configure the Tiny AI Assistant here"
+msgstr "Itt tudod konfigurálni a Tiny AI Assistant plugint"
+
+#: tinyAIEX.php:398
+msgid ""
+"You have to click on 'Save' button on the bottom of this form to save your "
+"settings!"
+msgstr ""
+"A módosítások elmentéséhez kattints az oldal alján lévő \"Mentés\" gombra!"

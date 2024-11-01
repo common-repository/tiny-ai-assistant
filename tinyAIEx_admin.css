@@ -1,0 +1,12 @@
+div.tinyaiex_settings_page_wrapper {
+/*    border-style: solid;
+    border-width: thin;
+    border-color: #000;  
+    margin-bottom: 10px;  */
+}
+
+.kiemelt-figyelmeztetes {
+    color: red;
+    font-size: large;
+    font-weight: bold;
+}
